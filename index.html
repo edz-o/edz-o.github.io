@@ -2,7 +2,7 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Yi Zhang&#39;s blog by edz-o</title>
+    <title>Welcome to Yi Zhang&#39;s Homepage by edz-o</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -11,57 +11,26 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">Yi Zhang&#39;s blog</h1>
+      <h1 class="project-name">Welcome to Yi Zhang&#39;s Homepage</h1>
       <h2 class="project-tagline"></h2>
     </section>
 
     <section class="main-content">
       <h3>
-<a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
+<a id="about-me" class="anchor" href="#about-me" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About me</h3>
 
-<p>I'm using <a href="http://caffe.berkeleyvision.org/">Caffe</a> to build deep models for computer vision tasks.</p>
-
-<h3>
-<a id="important-functions" class="anchor" href="#important-functions" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Important functions</h3>
-
-<div class="highlight highlight-source-c++"><pre><span class="pl-k">void</span> <span class="pl-en">im2col_cpu</span>(<span class="pl-k">const</span> Dtype* data_im, <span class="pl-k">const</span> <span class="pl-k">int</span> channels, 
-    <span class="pl-k">const</span> <span class="pl-k">int</span> height, <span class="pl-k">const</span> <span class="pl-k">int</span> width, <span class="pl-k">const</span> <span class="pl-k">int</span> kernel_h, <span class="pl-k">const</span> <span class="pl-k">int</span> kernel_w,
-    <span class="pl-k">const</span> <span class="pl-k">int</span> pad_h, <span class="pl-k">const</span> <span class="pl-k">int</span> pad_w,
-    <span class="pl-k">const</span> <span class="pl-k">int</span> stride_h, <span class="pl-k">const</span> <span class="pl-k">int</span> stride_w ,
-    Dtype* data_col) {
-  <span class="pl-k">const</span> <span class="pl-k">int</span> height_col = (height + <span class="pl-c1">2</span> * pad_h - kernel_h) / stride_h + <span class="pl-c1">1</span>;
-  <span class="pl-k">const</span> <span class="pl-k">int</span> width_col = (width + <span class="pl-c1">2</span> * pad_w - kernel_w) / stride_w + <span class="pl-c1">1</span>;
-  <span class="pl-k">const</span> <span class="pl-k">int</span> channels_col = channels * kernel_w * kernel_h;
-  <span class="pl-k">for</span> (<span class="pl-k">int</span> c_col = <span class="pl-c1">0</span>; c_col &lt; channels_col; ++c_col) {
-    <span class="pl-k">int</span> w_offset = c_col % kernel_w;
-    <span class="pl-k">int</span> h_offset = (c_col / kernel_w) % kernel_h;
-    <span class="pl-k">int</span> c_im = c_col / kernel_w / kernel_h;
-    <span class="pl-k">for</span> (<span class="pl-k">int</span> h_col = <span class="pl-c1">0</span>; h_col &lt; height_col; ++h_col) {
-      <span class="pl-k">for</span> (<span class="pl-k">int</span> w_col = <span class="pl-c1">0</span>; w_col &lt; width_col; ++w_col) {
-        <span class="pl-k">int</span> h_im = h_col * stride_h - pad_h + h_offset;
-        <span class="pl-k">int</span> w_im = w_col * stride_w - pad_w + w_offset;
-        data_col[(c_col * height_col + h_col) * width_col + w_col] = 
-            (h_im &gt;= <span class="pl-c1">0</span> &amp;&amp; w_im &gt;= <span class="pl-c1">0</span> &amp;&amp; h_im &lt; height &amp;&amp; w_im &lt; width) ? 
-            data_im[(c_im * height + h_im) * width + w_im] : <span class="pl-c1">0</span>;
-      }
-    }
-  }
-}</pre></div>
+<p>I'm currently an undergraduate student in the Department of Electronic Engineering, Tsinghua University.</p>
 
 <h3>
-<a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Creating pages manually</h3>
+<a id="research" class="anchor" href="#research" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Research</h3>
 
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://help.github.com/articles/basic-writing-and-formatting-syntax/#mentioning-users-and-teams" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
+<ul>
+<li>My research interests lie in the field of Computer Vision, Machine Learning and Computer Graphics.</li>
+<li>My current research focuses include: 1) stereo vision using semantic information, 2) virtual scene construction with rich ground truth for computer vision, and 3) transferable learning between virtual and real environments.</li>
+</ul>
 
 <h3>
-<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
+<a id="publications" class="anchor" href="#publications" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Publications</h3>
 
       <footer class="site-footer">
 
