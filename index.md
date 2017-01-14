@@ -1,5 +1,5 @@
+![yi](https://edz-o.github.io/images/myphoto.jpg)  
 ### About me
-![yi](/image/myphoto.jpg "Yi Zhang")
 I'm currently an undergraduate student in the Department of Electronic Engineering, Tsinghua University.
 
 ### Research
@@ -11,3 +11,4 @@ I'm currently an undergraduate student in the Department of Electronic Engineeri
 >**Yi Zhang**, Weichao Qiu, Qi Chen, Xiaolin Hu, and Alan Yuille  
 >Technical report, Dec. 2016  
 >[arXiv](https://arxiv.org/abs/1612.04647)
+
