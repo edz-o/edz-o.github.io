@@ -1,4 +1,3 @@
-![yi](https://edz-o.github.io/images/myphoto.jpg)  
 ### About me
 I'm currently an undergraduate student in the Department of Electronic Engineering, Tsinghua University.
 
