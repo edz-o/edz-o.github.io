@@ -1,4 +1,5 @@
 ### About me
+![yi](/image/myphoto.jpg "Yi Zhang")
 I'm currently an undergraduate student in the Department of Electronic Engineering, Tsinghua University.
 
 ### Research
