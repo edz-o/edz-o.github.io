@@ -16,13 +16,11 @@ I'm currently an undergraduate student in the Department of Electronic Engineeri
 
 
 <div>
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody>
+<table border="0">
   <tr>
-  <td><img src="/images/img_grad.jpg" width = "300" height = "200" alt="UnrealStereo" align="left" /></td>
-  <td>Pre-compiled binaries can be found <a href="binary.html">here</a></td>
+  <td><img src="/images/img_grad.jpg" width = "160" height = "90" alt="UnrealStereo" align="left" /></td>
+  <td><a href="unrealstereo.html">UnrealStereo codes and pre-compiled binaries</a></td>
   </tr>
-</tbody>
 </table>
 </div>
 
@@ -34,5 +32,5 @@ Pre-compiled binaries can be found [here](binary.html)
 >*UnrealStereo: A Synthetic Dataset for Analyzing Stereo Vision*  
 >**Yi Zhang**, Weichao Qiu, Qi Chen, Xiaolin Hu, and Alan Yuille  
 >Technical report, Dec. 2016  
->[arXiv](https://arxiv.org/abs/1612.04647)
+>[\[arXiv\]](https://arxiv.org/abs/1612.04647) [\[Project\]](unrealstereo.html)
 
