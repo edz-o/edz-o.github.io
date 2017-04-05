@@ -27,52 +27,52 @@ layout: default
 #### **Screenshot**
 
 <div>
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr align="center"><td><b>Left Image</b></td><td><b>Disparity</b></td><td><b>Object mask</b></td><td><b>Hazardous Regions</b></td></tr>
-  <tr><td><img src="/images/arch1_913_270_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
-  <td><img src="/images/arch1_913_270_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
-  <td><img src="/images/arch1_913_270_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
-  <td><img src="/images/arch1_913_270_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
+<table>
+  <tr align="center"><td style="padding:0"><b>Left Image</b></td><td style="padding:0"><b>Disparity</b></td><td style="padding:0"><b>Object mask</b></td><td style="padding:0"><b>Hazardous Regions</b></td></tr>
+  <tr><td style="padding:0"><img src="/images/arch1_913_270_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch1_913_270_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch1_913_270_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch1_913_270_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
 
-  <tr><td><img src="/images/arch1_913_806_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
-  <td><img src="/images/arch1_913_806_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
-  <td><img src="/images/arch1_913_806_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
-  <td><img src="/images/arch1_913_806_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
+  <tr><td style="padding:0"><img src="/images/arch1_913_806_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch1_913_806_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch1_913_806_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch1_913_806_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
 
-  <tr><td><img src="/images/arch2_1071_403_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
-  <td><img src="/images/arch2_1071_403_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
-  <td><img src="/images/arch2_1071_403_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
-  <td><img src="/images/arch2_1071_403_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
+  <tr><td style="padding:0"><img src="/images/arch2_1071_403_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch2_1071_403_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch2_1071_403_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch2_1071_403_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
 
-  <tr><td><img src="/images/arch2_1071_526_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
-  <td><img src="/images/arch2_1071_526_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
-  <td><img src="/images/arch2_1071_526_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
-  <td><img src="/images/arch2_1071_526_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
+  <tr><td style="padding:0"><img src="/images/arch2_1071_526_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch2_1071_526_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch2_1071_526_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch2_1071_526_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
 
-  <tr><td><img src="/images/arch2_highpos_1071_285_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
-  <td><img src="/images/arch2_highpos_1071_285_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
-  <td><img src="/images/arch2_highpos_1071_285_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
-  <td><img src="/images/arch2_highpos_1071_285_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
+  <tr><td style="padding:0"><img src="/images/arch2_highpos_1071_285_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch2_highpos_1071_285_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch2_highpos_1071_285_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch2_highpos_1071_285_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
 
-  <tr><td><img src="/images/arch3_highpos_1851_1349_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
-  <td><img src="/images/arch3_highpos_1851_1349_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
-  <td><img src="/images/arch3_highpos_1851_1349_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
-  <td><img src="/images/arch3_highpos_1851_1349_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
+  <tr><td style="padding:0"><img src="/images/arch3_highpos_1851_1349_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch3_highpos_1851_1349_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch3_highpos_1851_1349_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
+  <td style="padding:0"><img src="/images/arch3_highpos_1851_1349_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
 
-  <tr><td><img src="/images/rr_573_120_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
-  <td><img src="/images/rr_573_120_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
-  <td><img src="/images/rr_573_120_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
-  <td><img src="/images/rr_573_120_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
+  <tr><td style="padding:0"><img src="/images/rr_573_120_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
+  <td style="padding:0"><img src="/images/rr_573_120_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
+  <td style="padding:0"><img src="/images/rr_573_120_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
+  <td style="padding:0"><img src="/images/rr_573_120_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
 
-  <tr><td><img src="/images/suntemple_850_167_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
-  <td><img src="/images/suntemple_850_167_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
-  <td><img src="/images/suntemple_850_167_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
-  <td><img src="/images/suntemple_850_167_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
+  <tr><td style="padding:0"><img src="/images/suntemple_850_167_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
+  <td style="padding:0"><img src="/images/suntemple_850_167_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
+  <td style="padding:0"><img src="/images/suntemple_850_167_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
+  <td style="padding:0"><img src="/images/suntemple_850_167_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
 
-  <tr><td><img src="/images/urbancity_1732_618_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
-  <td><img src="/images/urbancity_1732_618_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
-  <td><img src="/images/urbancity_1732_618_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
-  <td><img src="/images/urbancity_1732_618_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
+  <tr><td style="padding:0"><img src="/images/urbancity_1732_618_sup_imL.png" width = "100%" height = "" alt="arch1_imL" align="center" /></td>
+  <td style="padding:0"><img src="/images/urbancity_1732_618_sup_disp.png" width = "100%" height = "" alt="arch1_disp" align="center" /></td>
+  <td style="padding:0"><img src="/images/urbancity_1732_618_sup_obj.png" width = "100%" height = "" alt="arch1_obj" align="center" /></td>
+  <td style="padding:0"><img src="/images/urbancity_1732_618_sup_hazard.png" width = "100%" height = "" alt="arch1_hazard" align="center" /></td></tr>
 
 </table>
 </div>
