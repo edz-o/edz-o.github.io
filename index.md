@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### About me
-I'm currently an undergraduate student in the Department of Electronic Engineering, Tsinghua University.
+I'm currently a 2nd-year Ph.D. student in the Department of Computer Science, Johns Hopkins University.
 
 ### Research
 * My research interests lie in the field of Computer Vision, Machine Learning and Computer Graphics.
@@ -19,7 +19,7 @@ I'm currently an undergraduate student in the Department of Electronic Engineeri
 <table border="0">
   <tr>
   <td><img src="/images/img_grad.jpg" width = "160" height = "90" alt="UnrealStereo" align="left" /></td>
-  <td><a href="unrealstereo.html">UnrealStereo codes and pre-compiled binaries</a></td>
+  <td><a href="https://stereo.unrealcv.org">UnrealStereo codes and pre-compiled binaries</a></td>
   </tr>
 </table>
 </div>
@@ -31,6 +31,15 @@ Pre-compiled binaries can be found [here](binary.html)
 ### Publications
 >*UnrealStereo: A Synthetic Dataset for Analyzing Stereo Vision*  
 >**Yi Zhang**, Weichao Qiu, Qi Chen, Xiaolin Hu, and Alan Yuille  
->Technical report, Dec. 2016  
->[\[arXiv\]](https://arxiv.org/abs/1612.04647) [\[Project\]](unrealstereo.html)
+>3DV 2018 (**Oral**) 
+>[\[arXiv\]](https://arxiv.org/abs/1612.04647) [\[Project\]](https://stereo.unrealcv.org)
 
+>*SampleAhead: Online Classifier-Sampler Communication for Learning from Synthesized Data*  
+>Qi Chen, Weichao Qiu, **Yi Zhang**, Lingxi Xie and Alan L. Yuille 
+>BMVC 2018 (**Oral**) 
+>[\[arXiv\]](https://arxiv.org/abs/1804.00248) 
+
+>*UnrealCV: Virtual Worlds for Computer Vision*  
+>Weichao Qiu, Fangwei Zhong, **Yi Zhang**, Siyuan Qiao,Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille  
+>ACM Multimedia Open Source Software Competition, 2017 
+>[\[pdf\]](pdfs/unrealcv.pdf) [\[Project\]](https://unrealcv.org)
