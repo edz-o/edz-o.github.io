@@ -35,7 +35,7 @@ Pre-compiled binaries can be found [here](binary.html)
 >[\[arXiv\]](https://arxiv.org/abs/1612.04647) [\[Project\]](https://stereo.unrealcv.org)
 
 >*SampleAhead: Online Classifier-Sampler Communication for Learning from Synthesized Data*  
->Qi Chen, Weichao Qiu, **Yi Zhang**, Lingxi Xie and Alan L. Yuille 
+>Qi Chen, Weichao Qiu, **Yi Zhang**, Lingxi Xie and Alan L. Yuille   
 >BMVC 2018 (**Oral**)   
 >[\[arXiv\]](https://arxiv.org/abs/1804.00248) 
 
