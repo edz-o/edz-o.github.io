@@ -29,7 +29,7 @@ Pre-compiled binaries can be found [here](binary.html)
 --> 
 
 ### Publications
->*UnrealStereo: A Synthetic Dataset for Analyzing Stereo Vision*  
+>*UnrealStereo: Controlling Hazardous Factors to Analyze Stereo Vision*  
 >**Yi Zhang**, Weichao Qiu, Qi Chen, Xiaolin Hu, and Alan Yuille  
 >3DV 2018 (**Oral**)   
 >[\[arXiv\]](https://arxiv.org/abs/1612.04647) [\[Project\]](https://stereo.unrealcv.org)
