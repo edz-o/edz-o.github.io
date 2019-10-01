@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### About me
-I'm a 3nd-year Ph.D. student at Johns Hopkins University, advised by Bloomberg Distinguished Professor [Alan Yuille](http://www.cs.jhu.edu/~ayuille/). I received my B.E. from Tsinghua University.
+I'm a 3nd-year Ph.D. student at Johns Hopkins University, advised by Bloomberg Distinguished Professor [Alan Yuille](http://www.cs.jhu.edu/~ayuille/). I received my B.E. from Tsinghua University. Here is my [CV](/pdfs/cv_yi.pdf) and [Google Scholar](https://scholar.google.com/citations?user=8aXDeK8AAAAJ&hl=en).
 
 ### Research
 * My research interests lie in the field of Computer Vision, Machine Learning and Computer Graphics.
@@ -29,17 +29,17 @@ Pre-compiled binaries can be found [here](binary.html)
 --> 
 
 ### Publications
->*UnrealStereo: Controlling Hazardous Factors to Analyze Stereo Vision*  
+>**UnrealStereo: Controlling Hazardous Factors to Analyze Stereo Vision**  
 >**Yi Zhang**, Weichao Qiu, Qi Chen, Xiaolin Hu, and Alan Yuille  
 >3DV 2018 (**Oral**)   
 >[\[pdf\]](pdfs/yi2018unrealstereo.pdf) [\[Project\]](https://stereo.unrealcv.org)
 
->*SampleAhead: Online Classifier-Sampler Communication for Learning from Synthesized Data*  
+>**SampleAhead: Online Classifier-Sampler Communication for Learning from Synthesized Data**  
 >Qi Chen, Weichao Qiu, **Yi Zhang**, Lingxi Xie and Alan L. Yuille   
 >BMVC 2018 (**Oral**)   
 >[\[arXiv\]](https://arxiv.org/abs/1804.00248) 
 
->*UnrealCV: Virtual Worlds for Computer Vision*  
+>**UnrealCV: Virtual Worlds for Computer Vision**  
 >Weichao Qiu, Fangwei Zhong, **Yi Zhang**, Siyuan Qiao,Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille  
 >ACM Multimedia Open Source Software Competition, 2017   
 >[\[pdf\]](pdfs/unrealcv.pdf) [\[Project\]](https://unrealcv.org)
