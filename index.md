@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### About me
-I'm a 3nd-year Ph.D. student at Johns Hopkins University, advised by Bloomberg Distinguished Professor [Alan Yuille](http://www.cs.jhu.edu/~ayuille/). I received my B.E. from Tsinghua University. Here is my [CV](/pdfs/cv_yi.pdf) and [Google Scholar](https://scholar.google.com/citations?user=8aXDeK8AAAAJ&hl=en).
+I'm a 3rd-year Ph.D. student at Johns Hopkins University, advised by Bloomberg Distinguished Professor [Alan Yuille](http://www.cs.jhu.edu/~ayuille/). I received my B.E. from Tsinghua University. Here is my [CV](/pdfs/cv_yi.pdf) and [Google Scholar](https://scholar.google.com/citations?user=8aXDeK8AAAAJ&hl=en).
 
 ### Research
 * My research interests lie in the field of Computer Vision, Machine Learning and Computer Graphics.
