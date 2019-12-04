@@ -41,10 +41,10 @@ Pre-compiled binaries can be found [here](binary.html)
 
 >**SampleAhead: Online Classifier-Sampler Communication for Learning from Synthesized Data**  
 >Qi Chen, Weichao Qiu, **Yi Zhang**, Lingxi Xie and Alan L. Yuille   
->BMVC 2018 (**Oral**)   
+>In BMVC 2018 (**Oral**)   
 >[\[arXiv\]](https://arxiv.org/abs/1804.00248) 
 
 >**UnrealCV: Virtual Worlds for Computer Vision**  
 >Weichao Qiu, Fangwei Zhong, **Yi Zhang**, Siyuan Qiao,Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille  
->ACM Multimedia Open Source Software Competition, 2017   
+>In ACM Multimedia Open Source Software Competition, 2017   
 >[\[pdf\]](pdfs/unrealcv.pdf) [\[Project\]](https://unrealcv.org)
