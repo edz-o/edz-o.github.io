@@ -29,9 +29,14 @@ Pre-compiled binaries can be found [here](binary.html)
 --> 
 
 ### Publications
+>**RSA: Randomized Simulation as Augmentation for Robust Human Action Recognition**  
+>**Yi Zhang**, Xinyue Wei, Weichao Qiu, Zihao Xiao, Gregory D. Hager, and Alan Yuille  
+>In arXiv preprint, 2019   
+>[\[arXiv\]](https://arxiv.org/abs/1912.01180) 
+
 >**UnrealStereo: Controlling Hazardous Factors to Analyze Stereo Vision**  
 >**Yi Zhang**, Weichao Qiu, Qi Chen, Xiaolin Hu, and Alan Yuille  
->3DV 2018 (**Oral**)   
+>In 3DV 2018 (**Oral**)   
 >[\[pdf\]](pdfs/yi2018unrealstereo.pdf) [\[Project\]](https://stereo.unrealcv.org)
 
 >**SampleAhead: Online Classifier-Sampler Communication for Learning from Synthesized Data**  
