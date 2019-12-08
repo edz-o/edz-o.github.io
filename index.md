@@ -6,8 +6,8 @@ layout: default
 I'm a 3rd-year Ph.D. student at Johns Hopkins University, advised by Bloomberg Distinguished Professor [Alan Yuille](http://www.cs.jhu.edu/~ayuille/). I received my B.E. from Tsinghua University. Here is my [CV](/pdfs/cv_yi.pdf) and [Google Scholar](https://scholar.google.com/citations?user=8aXDeK8AAAAJ&hl=en).
 
 ### Research
-* My research interests lie in the field of Computer Vision, Machine Learning and Computer Graphics.
-* My current research focuses include: 1) spatio-temporal action detection 2) generative models for computer vision, and 3) transferable learning between virtual and real environments.
+* My research interests lie in the field of Computer Vision and Machine Learning.
+* My current research focuses include: 1) human action recognition 2) generative models for computer vision, and 3) transferable learning between virtual and real environments.
 
 ### Software
 <!--
