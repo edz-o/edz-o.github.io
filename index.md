@@ -37,7 +37,7 @@ Pre-compiled binaries can be found [here](binary.html)
 >**UnrealStereo: Controlling Hazardous Factors to Analyze Stereo Vision**  
 >**Yi Zhang**, Weichao Qiu, Qi Chen, Xiaolin Hu, and Alan Yuille  
 >In 3DV 2018 (**Oral**)   
->[\[pdf\]](pdfs/yi2018unrealstereo.pdf) [\[Project\]](https://stereo.unrealcv.org)
+>[\[pdf\]](pdfs/yi2018unrealstereo.pdf) [\[Project\]](https://stereo.unrealcv.org) [\[GitHub\]](https://github.com/edz-o/unreal-stereo-evaluation)
 
 >**SampleAhead: Online Classifier-Sampler Communication for Learning from Synthesized Data**  
 >Qi Chen, Weichao Qiu, **Yi Zhang**, Lingxi Xie and Alan L. Yuille   
