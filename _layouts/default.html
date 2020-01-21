@@ -13,6 +13,7 @@
   </head>
   <body>
     <div class="wrapper">
+        <!--
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         
@@ -30,15 +31,17 @@
         <p class="view"><a href="{{ site.github.owner_url }}">GitHub</a>&nbsp<a href="https://ccvl.jhu.edu/">CCVL</a></p>
         {% endif %}
 
-        {% if site.show_downloads %}
-        <ul class="downloads">
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
-        </ul>
-        {% endif %}
-      </header>
+      </header> 
+        -->
+      <header>
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+      </header> 
       <section>
+        <div id="intro">
+        <p><img src="{{site.logo | relative_url}}" alt="Logo" style="float: left; width: 200px; margin: 0 30px 20px 0"/></p>
+        <h2> About me </h2>
+        <p>I'm a 3rd-year Ph.D. student at Johns Hopkins University, advised by Bloomberg Distinguished Professor <a href="http://www.cs.jhu.edu/~ayuille/">Alan Yuille</a>. I received my B.E. from Tsinghua University. Here is my <a href="/pdfs/cv_yi.pdf">CV</a> and <a href="https://scholar.google.com/citations?user=8aXDeK8AAAAJ&hl=en">Google Scholar</a>. </p>
+        </div>
 
       {{ content }}
 

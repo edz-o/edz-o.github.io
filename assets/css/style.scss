@@ -3,6 +3,17 @@
 
 @import "{{ site.theme  }}";
 
+body {
+  background-color: #fff;
+  padding:50px;
+  font: 16px/1.5 Helvetica, Arial, sans-serif;
+  color:#727272;
+  font-weight:300;
+}
+
+#intro {
+    margin: 0 0 150px;
+}
 blockquote {
 border-left:1px solid #e5e5e5;
 margin:0;
@@ -10,10 +21,11 @@ padding:0 0 0 20px;
 font-style:normal;
 }
 
-section {
-  width:650px;
-}
 
 header {
-  width:120px
+  position: static;
+  margin: 0 0 0 40px;
+}
+footer {
+    position:static;
 }
