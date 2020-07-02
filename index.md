@@ -28,7 +28,7 @@ Pre-compiled binaries can be found [here](binary.html)
 ## Publications
 >**Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation**  
 >Yingda Xia\*, **Yi Zhang\***, Fengze Liu, Wei Shen, and Alan Yuille  
->In arXiv preprint, 2020   
+>In ECCV 2020 (**Oral**)   
 >[\[arXiv\]](https://arxiv.org/abs/2003.08440) 
 
 >**RSA: Randomized Simulation as Augmentation for Robust Human Action Recognition**  
