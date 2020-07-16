@@ -4,7 +4,7 @@ layout: default
 
 ## Research
 * My research interests lie in the field of Computer Vision and Machine Learning.
-* My current research focuses include: 1) human action recognition 2) generative models for computer vision, and 3) transferable learning between virtual and real environments.
+* My current research focuses include: 1) human analysis 2) generative models for computer vision, and 3) transferable learning between virtual and real environments.
 
 ## Software
 <!--
