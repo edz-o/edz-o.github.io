@@ -26,6 +26,12 @@ Pre-compiled binaries can be found [here](binary.html)
 --> 
 
 ## Publications
+
+>**DASZL: Dynamic Action Signatures for Zero-shot Learning**  
+>Tae Soo Kim\*, Jonathan Jones\*, Michael Peven\*, Zihao Xiao, Jin Bai, **Yi Zhang**, Weichao Qiu, Alan Yuille and Gregory D. Hager  
+>In AAAI 2021  
+>[\[arXiv\]](https://arxiv.org/abs/1912.03613)
+
 >**Synthesize then Compare: Detecting Failures and Anomalies for Semantic Segmentation**  
 >Yingda Xia\*, **Yi Zhang\***, Fengze Liu, Wei Shen, and Alan Yuille  
 >In ECCV 2020 (**Oral**)   
