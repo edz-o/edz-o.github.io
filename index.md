@@ -4,7 +4,7 @@ layout: default
 
 ## Research
 * My research interests lie in the field of Computer Vision and Machine Learning.
-* My current research focuses include: 1) human analysis 2) generative models for computer vision, and 3) transferable learning between virtual and real environments.
+* My current research focuses include: 1) human analysis 2) generative models for computer vision (especially in 3D), and 3) transferable learning between virtual and real environments.
 
 ## Software
 <!--
@@ -25,7 +25,7 @@ layout: default
 Pre-compiled binaries can be found [here](binary.html)
 --> 
 
-## Publications
+## Selected Publications
 
 >**DASZL: Dynamic Action Signatures for Zero-shot Learning**  
 >Tae Soo Kim\*, Jonathan Jones\*, Michael Peven\*, Zihao Xiao, Jin Bai, **Yi Zhang**, Weichao Qiu, Alan Yuille and Gregory D. Hager  
