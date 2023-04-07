@@ -30,7 +30,7 @@ Pre-compiled binaries can be found [here](binary.html)
 >**Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation**  
 >Qihao Liu, **Yi Zhang**, Song Bai, and Alan Yuille  
 >In ECCV 2022   
->[\[arXiv\]](https://arxiv.org/abs/2208.00090)
+>[\[arXiv\]](https://arxiv.org/abs/2208.00090) [\[Project\]](https://github.com/qihao067/HUPOR)
 
 >**DASZL: Dynamic Action Signatures for Zero-shot Learning**  
 >Tae Soo Kim\*, Jonathan Jones\*, Michael Peven\*, Zihao Xiao, Jin Bai, **Yi Zhang**, Weichao Qiu, Alan Yuille and Gregory D. Hager  
